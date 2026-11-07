@@ -1,0 +1,22 @@
+# 게임 원본·산출물 (배포하지 않음)
+*.iso
+*.rvz
+*.xdelta
+ext/
+build/
+text/dialogue.json
+text/res.json
+text/crd.json
+text/mel.json
+font_preview.png
+
+# 글꼴·외부 실행 파일·이미지
+*.ttf
+*.otf
+*.exe
+*.dll
+*.png
+
+# 파이썬
+__pycache__/
+*.pyc
